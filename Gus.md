@@ -1,1 +1,2 @@
-Gus is a good dog.
+# Gus is a good dog.
+## Let's count the ways!
